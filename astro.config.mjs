@@ -12,6 +12,18 @@ import solidJs from "@astrojs/solid-js";
 
 import vercel from "@astrojs/vercel/serverless";
 
+
+import vercel from '@astrojs/vercel/serverless';
+
+export default defineConfig({
+  output: 'server',
+  adapter: vercel({
+    webAnalytics: { enabled: true }
+  }),
+});
+
+
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://tiktokio.cam",
