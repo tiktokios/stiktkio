@@ -9,6 +9,7 @@ import alpinejs from "@astrojs/alpinejs";
 import AstroPWA from "@vite-pwa/astro";
 import icon from "astro-icon";
 import solidJs from "@astrojs/solid-js";
+import { inject } from '@vercel/analytics';
 
 import vercel from "@astrojs/vercel/serverless";
 
