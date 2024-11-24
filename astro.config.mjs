@@ -162,7 +162,7 @@ page !== 'https://tiktokio.cam/ar/pricing/',
     },
 
     redirects: {
-    '/404': {
+    '/login/': {
       status: 404,
       destination: '/'
     }
