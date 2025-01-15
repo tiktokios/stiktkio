@@ -247,7 +247,7 @@ page !== 'https://tiktokio.cam/TikTokio/ ' &&
 page !== 'https://tiktokio.cam/tl/contact-us/ ' &&
 page !== 'https://tiktokio.cam/nl/blog/tag/tiktokio/ ' &&
 page !== 'https://tiktokio.cam/fr/login/ ' &&
-page !== 'https://tiktokio.cam/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/privacy/ ' &&
 page !== 'https://tiktokio.cam/tl/animated/ ' &&
 page !== 'https://tiktokio.cam/de/login/ ' &&
 page !== 'https://tiktokio.cam/ko/login/ ' &&
@@ -379,7 +379,7 @@ page !== 'https://tiktokio.cam/id/blog/tag/astro/ ' &&
 page !== 'https://tiktokio.cam/es/blog/tag/astro/ ' &&
 page !== 'https://tiktokio.cam/hi/blog/tag/tiktok/ ' &&
 page !== 'https://tiktokio.cam/tr/blog/tag/tiktok/ ' &&
-page !== 'https://tiktokio.cam/it/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/it/privacy/ ' &&
 page !== 'https://tiktokio.cam/nl/blog/tag/tiktok/ ' &&
 page !== 'https://tiktokio.cam/ms/blog/category/frameworks/ ' &&
 page !== 'https://tiktokio.cam/fr/blog/category/frameworks/ ' &&
@@ -578,7 +578,7 @@ page !== 'https://tiktokio.cam/tl/blog/harnessing-the-power-of-tiktok/ ' &&
 page !== 'https://tiktokio.cam/ar/blog/introduction-to-astro-a-new-front-end-framework/ ' &&
 page !== 'https://tiktokio.cam/tr/blog/introduction-to-astro-a-new-front-end-framework/ ' &&
 page !== 'https://tiktokio.cam/it/blog/category/ai and ml/ ' &&
-page !== 'https://tiktokio.cam/de/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/de/privacy/ ' &&
 page !== 'https://tiktokio.cam/fr/blog/introduction-to-astro-a-new-front-end-framework/ ' &&
 page !== 'https://tiktokio.cam/tr/blog/simplifying-front-end-interactivity-with-alpine-js/ ' &&
 page !== 'https://tiktokio.cam/ko/blog/introduction-to-astro-a-new-front-end-framework/ ' &&
@@ -613,24 +613,24 @@ page !== 'https://tiktokio.cam/id/blog/the-power-and-potential-of-chatgpt/ ' &&
 page !== 'https://tiktokio.cam/blog/category/ia e ml/ ' &&
 page !== 'https://tiktokio.cam/es/blog/the-power-and-potential-of-chatgpt/ ' &&
 page !== 'https://tiktokio.cam/404/ ' &&
-page !== 'https://tiktokio.cam/ko/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/ko/privacy/ ' &&
 page !== 'https://tiktokio.cam/de/blog/introducing-decap-cms-your-go-to-solution-for-content-management/ ' &&
-page !== 'https://tiktokio.cam/nl/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/nl/privacy/ ' &&
 page !== 'https://tiktokio.cam/category/tutorials/ ' &&
-page !== 'https://tiktokio.cam/pt/privacy-policy/ ' &&
-page !== 'https://tiktokio.cam/ms/privacy-policy/ ' &&
-page !== 'https://tiktokio.cam/hi/privacy-policy/ ' &&
-page !== 'https://tiktokio.cam/ar/privacy-policy/ ' &&
-page !== 'https://tiktokio.cam/tr/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/pt/privacy/ ' &&
+page !== 'https://tiktokio.cam/ms/privacy/ ' &&
+page !== 'https://tiktokio.cam/hi/privacy/ ' &&
+page !== 'https://tiktokio.cam/ar/privacy/ ' &&
+page !== 'https://tiktokio.cam/tr/privacy/ ' &&
 page !== 'https://tiktokio.cam/ar/blog/the-power-and-potential-of-chatgpt/ ' &&
 page !== 'https://tiktokio.cam/category/ai and ml/ ' &&
-page !== 'https://tiktokio.cam/id/privacy-policy/ ' &&
-page !== 'https://tiktokio.cam/es/privacy-policy/ ' &&
-page !== 'https://tiktokio.cam/fr/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/id/privacy/ ' &&
+page !== 'https://tiktokio.cam/es/privacy/ ' &&
+page !== 'https://tiktokio.cam/fr/privacy/ ' &&
 page !== 'https://tiktokio.cam/tl/blog/the-power-and-potential-of-chatgpt/ ' &&
-page !== 'https://tiktokio.cam/tl/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/tl/privacy/ ' &&
 page !== 'https://tiktokio.cam/fr/blog/tag/apprendimentoautomatico/ ' &&
-page !== 'https://tiktokio.cam/ru/privacy-policy/ ' &&
+page !== 'https://tiktokio.cam/ru/privacy/ ' &&
 page !== 'https://tiktokio.cam/tr/terms-of-service/ ' &&
 page !== 'https://tiktokio.cam/pt/blog/tag/machinelearning/ ' &&
 page !== 'https://tiktokio.cam/tl/blog/tag/ai/ ' &&
