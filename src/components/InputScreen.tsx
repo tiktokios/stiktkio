@@ -192,16 +192,7 @@ function InputScreen({ }: Props) {
 
                <div class='flex flex-col justify-center gap-2 mt-2 rounded-md shadow-md my-3 w-11/12 mx-auto'>
 
-                <script type="text/javascript">
-	atOptions = {
-		'key' : '34573b90a095e95e849f42bc513a1ec8',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//lockupaccede.com/34573b90a095e95e849f42bc513a1ec8/invoke.js"></script>
+               
                </div>
            
                     <div class='flex flex-col justify-center gap-2 mt-2 rounded-md shadow-md my-3 w-11/12 mx-auto'>
