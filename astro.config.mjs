@@ -124,7 +124,6 @@ page !== 'https://tiktokio.cam/tr/login/' &&
 page !== 'https://tiktokio.cam/ar/login/' &&
 page !== 'https://tiktokio.cam/tr/pricing/' &&
 page !== 'https://tiktokio.cam/de/pricing/' &&
-
 page !== 'https://tiktokio.cam/ar/blog/category/frameworks/ ' &&
 page !== 'https://tiktokio.cam/de/blog/category/frameworks/ ' &&
 page !== 'https://tiktokio.cam/pt/blog/category/frameworks/ ' &&
@@ -612,7 +611,6 @@ page !== 'https://tiktokio.cam/de/blog/the-power-and-potential-of-chatgpt/ ' &&
 page !== 'https://tiktokio.cam/id/blog/the-power-and-potential-of-chatgpt/ ' &&
 page !== 'https://tiktokio.cam/blog/category/ia e ml/ ' &&
 page !== 'https://tiktokio.cam/es/blog/the-power-and-potential-of-chatgpt/ ' &&
-page !== 'https://tiktokio.cam/404/ ' &&
 page !== 'https://tiktokio.cam/ko/privacy/ ' &&
 page !== 'https://tiktokio.cam/de/blog/introducing-decap-cms-your-go-to-solution-for-content-management/ ' &&
 page !== 'https://tiktokio.cam/nl/privacy/ ' &&
