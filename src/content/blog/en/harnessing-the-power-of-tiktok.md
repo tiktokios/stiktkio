@@ -2,6 +2,12 @@
 title: Harnessing the Power of TikTok Ads A Comprehensive Guide
 draft: false
 author: Jon Doe 
+tags:
+  - TikTok
+  - TikTokio
+  - TikTok video downloader without watermark
+  - socialmedia
+  - advertising
 image:
   src: https://tiktokio.cam/images/tik-tok-ads.png
   alt: TikTok Ads
