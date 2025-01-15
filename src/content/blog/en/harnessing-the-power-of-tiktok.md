@@ -1,19 +1,16 @@
 ---
 title: Harnessing the Power of TikTok Ads A Comprehensive Guide
 draft: false
-author: Jon Doe
-tags:
-  - TikTok
-  - socialmedia
-  - advertising
+author: Jon Doe 
 image:
-  src: /images/tik-tok-ads.png
+  src: https://tiktokio.cam/images/tik-tok-ads.png
   alt: TikTok Ads
 snippet: In the world of social media marketing, a new player is making a
   significant impact TikTok. This guide explores the potential of TikTok ads and
   how to harness them effectively
 publishDate: 2023-06-29 11:39
 category: Marketing
+
 ---
 
 
