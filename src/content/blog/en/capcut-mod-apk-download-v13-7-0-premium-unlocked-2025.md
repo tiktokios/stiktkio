@@ -24,7 +24,7 @@ Download CapCut Mod APK v13.7.0 (Premium Unlocked) 2025\. Edit videos like a pro
 
 # **CapCut MOD APK Download V13.7.0 (Premium Unlocked) 2025**
 
-![][image1]
+[https://i.imgur.com/0k6ePWy.png][image1]
 
 | App Name | [CapCut Mod APK](http://capckutapk.com) |
 | :---- | :---- |
