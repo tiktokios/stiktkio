@@ -18,12 +18,6 @@ category: Video editor
 
 ---
 
-**SEO Meta Description:**
-
-Download CapCut Mod APK v13.7.0 (Premium Unlocked) 2025\. Edit videos like a pro with no ads, no watermark, and premium features for free.
-
-# **CapCut MOD APK Download V13.7.0 (Premium Unlocked) 2025**
-
 [https://i.imgur.com/0k6ePWy.png][image1]
 
 | App Name | [CapCut Mod APK](http://capckutapk.com) |
