@@ -18,7 +18,7 @@ category: Video editor
 
 ---
 
-![https://i.imgur.com/0k6ePWy.png][image1]
+<a href=""><img src="https://i.imgur.com/0k6ePWy.png" /></a>
 
 
 | App Name | [CapCut Mod APK](http://capckutapk.com) |
