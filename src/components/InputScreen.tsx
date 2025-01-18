@@ -149,16 +149,7 @@ function InputScreen({ }: Props) {
 </form>
 
 
-            <script type="text/javascript">
-	atOptions = {
-		'key' : '34573b90a095e95e849f42bc513a1ec8',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//lockupaccede.com/34573b90a095e95e849f42bc513a1ec8/invoke.js"></script>
+         
             
             
             {loading() && <div class='flex justify-center'><svg
