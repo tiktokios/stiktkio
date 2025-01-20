@@ -120,7 +120,7 @@ While this method works, it’s less efficient and may reduce video quality comp
 
 # **Bonus Tip: How to Save Twitter Videos with ssstwitter**
 
-In addition to downloading TikTok videos, you might also want to save Twitter videos by using [twitter video downloader](https://ssstwitter.com/) to your device. That’s where **ssstwitter** comes in.
+In addition to downloading TikTok videos, you might also want to save Twitter videos by using [twitter video downloader](https://ssstwitter.kim/) to your device. That’s where **ssstwitter** comes in.
 
 ## **How to Download Twitter Videos with ssstwitter**
 
