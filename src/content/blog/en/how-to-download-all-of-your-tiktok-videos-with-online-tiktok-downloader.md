@@ -19,9 +19,6 @@ category: Blog
 
 ---
 
-
-**How to download all of your TikTok videos**
-
 Things are coming down to the wire for TikTok in the US. If you avoided TikTok or any news surrounding one of the most popular social media apps, you may not know that it is on the verge of being banned and shut down on January 19th.  
 That's this Sunday. The app has become a major force in the United States in many ways, from entertainment to education and news to income. But what will happen to all the videos after the ban goes into effect is still unclear.  
 
