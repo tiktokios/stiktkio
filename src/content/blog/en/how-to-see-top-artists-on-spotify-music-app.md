@@ -40,8 +40,8 @@ Are you interested in knowing your top artist for the past six months or a whole
 
 Here are the simple steps to find top artists using the website:
 
-* First of all, visit the website for **"Stats for Spotify"** or click on the link: https://www.statsforspotify.com/.  
-* On the screen, you will see an option to log in to your **Spotify version antigua** account. So, log in and then click on the **"Top Artists"** option.  
+* First of all, visit the website for **"Stats for Spotify"** or open: statsforspotify.com.  
+* On the screen, you will see an option to log in to your **[Spotify version antigua](https://spotifypremiumaapk.com/spotify-version-antigua/))** account. So, log in and then click on the **"Top Artists"** option.  
 * When you click on this option, your most listened artist's history will appear.
 
  
