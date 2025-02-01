@@ -1,5 +1,5 @@
 ---
-title: Iganony Instagram Anonymous Story Viewer Review: How to Use It
+title: Iganony Instagram Anonymous Story Viewer Review How to Use It
 draft: false
 author: Jon Doe 
 tags:
