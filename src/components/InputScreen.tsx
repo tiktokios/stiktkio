@@ -72,25 +72,23 @@ function InputScreen({}: Props) {
 
   const loadAd = () => {
     const script1 = document.createElement("script");
+    script1.id = "aclib";
     script1.type = "text/javascript";
     script1.innerHTML = `
-      atOptions = {
-        'key' : '9f84606fc2336f87f9df0a4c68673a2f',
-        'format' : 'iframe',
-        'height' : 250,
-        'width' : 300,
-        'params' : {}
-      };
+      aclib.runBanner({
+            zoneId: '9480206',
+        });
     `;
     document.getElementById("ad-banner")?.appendChild(script1);
   
     const script2 = document.createElement("script");
     script2.type = "text/javascript";
-    script2.src = "//www.highperformanceformat.com/9f84606fc2336f87f9df0a4c68673a2f/invoke.js";
+    script2.src = "//acscdn.com/script/aclib.js";
     document.getElementById("ad-banner")?.appendChild(script2);
   };
   
-  
+
+
 
 
   return (
